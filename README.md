@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gitprasoonk
+- 👋 Hi, I’m @Prasun_Kr
 - 👀 I’m interested in distributed systems, big data and AI
 - 🌱 I’m currently learning blockchain development
 - 💞️ I’m looking to collaborate on multiple projects that suits my interest
